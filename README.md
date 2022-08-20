@@ -2,6 +2,19 @@
 
 [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+## Table of contents
+
+- [Cosmopolitan](#cosmopolitan-)
+  - [Ports](#ports)
+  - [Programs](#programs)
+  - [Blog Posts](#blog-posts)
+- [Redbean](#redbean-)
+  - [Projects](#projects)
+  - [Blog Posts](#blog-posts-1)
+- [Fullmoon](#fullmoon-)
+
+------
+
 ## Cosmopolitan ![image redbean](images/honeybadger_smaller.png) 
 
 > _Cosmopolitan Libc makes C a build-once run-anywhere language, like Java, except it doesn't need an interpreter or virtual machine. Instead, it reconfigures stock GCC and Clang to output a POSIX-approved polyglot format that runs natively on Linux + Mac + Windows + FreeBSD + OpenBSD + NetBSD + BIOS with the best possible performance and the tiniest footprint imaginable._
