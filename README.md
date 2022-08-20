@@ -2,6 +2,8 @@
 
 [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+This is a list of Cosmopolitan projects and resources. If you see anything missing, please open a pull request or simply [make a suggestion](https://github.com/shmup/awesome-cosmopolitan/discussions/categories/suggestion).
+
 ## Table of contents
 
 - [Cosmopolitan](#cosmopolitan-)
