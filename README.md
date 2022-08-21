@@ -1,8 +1,10 @@
 # Awesome Cosmopolitan
 
-[![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+<img align="left" src="https://user-images.githubusercontent.com/118710/185776068-c1ddea8e-74ac-4214-9f2b-7a3902bf64d7.png">
 
-This is a list of Cosmopolitan projects and resources. If you see anything missing, please open a pull request or simply [make a suggestion](https://github.com/shmup/awesome-cosmopolitan/discussions/categories/suggestion).
+This is a list of Cosmopolitan projects and resources. If you see anything missing, please open a pull request or simply [make a suggestion](https://github.com/shmup/awesome-cosmopolitan/discussions/new?category=suggestion).
+
+------
 
 ## Table of contents
 
@@ -70,6 +72,7 @@ Note: Some ports are experimental. The most battle-tested code is in the [Cosmop
 - [rig](https://github.com/cdrubin/rig) - redbean interactive grapher
 - [tiddly-bean](https://github.com/amreus/tiddly-bean) - Experiments with a redbean TiddlyWiki server
 - [redbean-docker](https://github.com/kissgyorgy/redbean-docker) - The smallest possible web server in Docker!
+- [action-static-redbean](https://github.com/TimonLukas/action-static-redbean) - GitHub action that creates a redbean
 - [redbean-cardgames](https://github.com/shmup/redbean-cardgames) - Upcoming collection of cardgames playable in a browser
 - [redbean-calcpad](https://github.com/shmup/redbean-calcpad) - Alternative take on a calculator
 
