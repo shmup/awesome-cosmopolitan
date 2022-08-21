@@ -33,16 +33,17 @@ This is a list of Cosmopolitan projects and resources. If you see anything missi
 
 Note: Some ports are experimental. The most battle-tested code is in the [Cosmopolitan repo](https://github.com/jart/cosmopolitan). Ports are often a stepping stone for what we put in the monorepo.
 
+- [actually portable nim](https://github.com/gnu-enjoyer/ActuallyPortableNim) - Port of Nim
+- [cosmo blis](https://github.com/ahgamut/blis/tree/cosmopolitan) - Port of BLIS
 - [cosmo cpython39](https://github.com/ahgamut/cpython/tree/cosmo_py39) - Port of python 3.9 (see also [3.6](https://github.com/ahgamut/cpython/tree/cosmo_py39) and [2.7](https://github.com/ahgamut/cpython/tree/cosmo_py39))
-- [cosmo rust example](https://github.com/ahgamut/rust-ape-example) - Rust APE Example
-- [cosmo tcl](https://github.com/ahgamut/tcl/tree/cosmopolitan) - Port of TCL
 - [cosmo janet](https://github.com/ahgamut/janet/tree/cosmopolitan) - Port of Janet
-- [cosmo php73](https://github.com/ahgamut/php-src/tree/cosmo_php73) - Port of  PHP 7.3
 - [cosmo lua](https://github.com/ahgamut/lua/tree/cosmopolitan) - Port of Lua
 - [cosmo luajit](https://github.com/ahgamut/LuaJIT-cosmo) - Port of Lua JIT
-- [cosmo sqlite](https://github.com/ahgamut/sqlite/tree/cosmopolitan) - Port of SQLite
 - [cosmo make](https://github.com/ahgamut/gnu-make-cosmopolitan) - Port of GNU Make
-- [cosmo blis](https://github.com/ahgamut/blis/tree/cosmopolitan) - Port of BLIS
+- [cosmo php73](https://github.com/ahgamut/php-src/tree/cosmo_php73) - Port of  PHP 7.3
+- [cosmo rust example](https://github.com/ahgamut/rust-ape-example) - Rust APE Example
+- [cosmo sqlite](https://github.com/ahgamut/sqlite/tree/cosmopolitan) - Port of SQLite
+- [cosmo tcl](https://github.com/ahgamut/tcl/tree/cosmopolitan) - Port of TCL
 
 ### Programs
 
