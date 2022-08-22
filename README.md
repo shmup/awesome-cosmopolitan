@@ -19,7 +19,7 @@ This is a list of Cosmopolitan projects and resources. If you see anything missi
 
 ------
 
-## Cosmopolitan ![image redbean](images/honeybadger_smaller.png) 
+## Cosmopolitan ![image redbean](images/honeybadger_smaller.png)
 
 > _Cosmopolitan Libc makes C a build-once run-anywhere language, like Java, except it doesn't need an interpreter or virtual machine. Instead, it reconfigures stock GCC and Clang to output a POSIX-approved polyglot format that runs natively on Linux + Mac + Windows + FreeBSD + OpenBSD + NetBSD + BIOS with the best possible performance and the tiniest footprint imaginable._
 >
@@ -33,17 +33,19 @@ This is a list of Cosmopolitan projects and resources. If you see anything missi
 
 Note: Some ports are experimental. The most battle-tested code is in the [Cosmopolitan repo](https://github.com/jart/cosmopolitan). Ports are often a stepping stone for what we put in the monorepo.
 
-- [actually portable nim](https://github.com/gnu-enjoyer/ActuallyPortableNim) - Port of Nim
-- [cosmo blis](https://github.com/ahgamut/blis/tree/cosmopolitan) - Port of BLIS
-- [cosmo cpython39](https://github.com/ahgamut/cpython/tree/cosmo_py39) - Port of python 3.9 (see also [3.6](https://github.com/ahgamut/cpython/tree/cosmo_py39) and [2.7](https://github.com/ahgamut/cpython/tree/cosmo_py39))
-- [cosmo janet](https://github.com/ahgamut/janet/tree/cosmopolitan) - Port of Janet
-- [cosmo lua](https://github.com/ahgamut/lua/tree/cosmopolitan) - Port of Lua
-- [cosmo luajit](https://github.com/ahgamut/LuaJIT-cosmo) - Port of Lua JIT
-- [cosmo make](https://github.com/ahgamut/gnu-make-cosmopolitan) - Port of GNU Make
-- [cosmo php73](https://github.com/ahgamut/php-src/tree/cosmo_php73) - Port of  PHP 7.3
-- [cosmo rust example](https://github.com/ahgamut/rust-ape-example) - Rust APE Example
-- [cosmo sqlite](https://github.com/ahgamut/sqlite/tree/cosmopolitan) - Port of SQLite
-- [cosmo tcl](https://github.com/ahgamut/tcl/tree/cosmopolitan) - Port of TCL
+- [blis](https://github.com/ahgamut/blis/tree/cosmopolitan) - Port of BLIS
+- [cpython39](https://github.com/ahgamut/cpython/tree/cosmo_py39) - Port of python 3.9 (see also [3.6](https://github.com/ahgamut/cpython/tree/cosmo_py39) and [2.7](https://github.com/ahgamut/cpython/tree/cosmo_py39))
+- [esperanto](https://github.com/dinosaure/esperanto) - build-once run-anywhere OCaml programs
+- [janet](https://github.com/ahgamut/janet/tree/cosmopolitan) - Port of Janet
+- [lua](https://github.com/ahgamut/lua/tree/cosmopolitan) - Port of Lua
+- [luajit](https://github.com/ahgamut/LuaJIT-cosmo) - Port of Lua JIT
+- [make](https://github.com/ahgamut/gnu-make-cosmopolitan) - Port of GNU Make
+- [nim](https://github.com/gnu-enjoyer/ActuallyPortableNim) - Turns Nim into a build once run anywhere language
+- [php73](https://github.com/ahgamut/php-src/tree/cosmo_php73) - Port of  PHP 7.3
+- [rust example](https://github.com/ahgamut/rust-ape-example) - Rust APE Example
+- [sqlite](https://github.com/ahgamut/sqlite/tree/cosmopolitan) - Port of SQLite
+- [tcl](https://github.com/ahgamut/tcl/tree/cosmopolitan) - Port of TCL
+- [wasm3](https://github.com/wasm3/wasm3/blob/main/docs/Installation.md#cosmopolitan--actually-portable-executable) - APE of wasm3
 
 ### Programs
 
@@ -61,7 +63,7 @@ Note: Some ports are experimental. The most battle-tested code is in the [Cosmop
 - [Porting OpenBSD pledge() to Linux](https://justine.lol/pledge/) - July 13th, 2022
 - [Using Landlock to Sandbox GNU Make](https://justine.lol/make/) - Aug 7th, 2022
 
-## Redbean ![image redbean](images/redbean.png) 
+## Redbean ![image redbean](images/redbean.png)
 
 > _redbean is an open source webserver in a zip executable that runs on six operating systems. The basic idea is if you want to build a web app that runs anywhere, then you download the redbean.com file, put your .html and .lua files inside it using the zip command, and then you've got a hermetic app you can deploy and share._
 
@@ -83,8 +85,7 @@ Note: Some ports are experimental. The most battle-tested code is in the [Cosmop
 - [Debugging with ZeroBrane Studio](https://news.ycombinator.com/item?id=32484206) - Aug 10th, 2022
 - [Redbean on Fly](https://til.simonwillison.net/fly/redbean-on-fly) - Recipe for deploying a dockerized redbean to fly
 
-
-## Fullmoon ![image fullmoon](images/fullmoon.png) 
+## Fullmoon ![image fullmoon](images/fullmoon.png)
 
 > _Fullmoon is a fast and minimalistic web framework based on Redbean -- a portable, single-file distributable web server._
 
