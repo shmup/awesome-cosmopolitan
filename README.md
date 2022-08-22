@@ -1,8 +1,8 @@
 # Awesome Cosmopolitan
 
-<img align="left" src="https://user-images.githubusercontent.com/118710/185776068-c1ddea8e-74ac-4214-9f2b-7a3902bf64d7.png">
+<img align="left" src="images/cool-honeybadger-smaller.png">
 
-This is a list of Cosmopolitan projects and resources. If you see anything missing, please open a pull request or simply [make a suggestion](https://github.com/shmup/awesome-cosmopolitan/discussions/new?category=suggestion).
+This is a list of Cosmopolitan projects and resources. If you notice anything missing, please open a pull request or simply [make a suggestion](https://github.com/shmup/awesome-cosmopolitan/discussions/new?category=suggestion).
 
 ------
 
@@ -19,9 +19,9 @@ This is a list of Cosmopolitan projects and resources. If you see anything missi
 
 ------
 
-## Cosmopolitan ![image redbean](images/honeybadger_smaller.png)
+## Cosmopolitan
 
-> _Cosmopolitan Libc makes C a build-once run-anywhere language, like Java, except it doesn't need an interpreter or virtual machine. Instead, it reconfigures stock GCC and Clang to output a POSIX-approved polyglot format that runs natively on Linux + Mac + Windows + FreeBSD + OpenBSD + NetBSD + BIOS with the best possible performance and the tiniest footprint imaginable._
+> <img align="left" src="images/honeybadger_smaller.png"> _Cosmopolitan Libc makes C a build-once run-anywhere language, like Java, except it doesn't need an interpreter or virtual machine. Instead, it reconfigures stock GCC and Clang to output a POSIX-approved polyglot format that runs natively on Linux + Mac + Windows + FreeBSD + OpenBSD + NetBSD + BIOS with the best possible performance and the tiniest footprint imaginable._
 >
 > ![image operating systems](images/operatingsystems.png "operating systems")
 
@@ -63,9 +63,9 @@ Note: Some ports are experimental. The most battle-tested code is in the [Cosmop
 - [Porting OpenBSD pledge() to Linux](https://justine.lol/pledge/) - July 13th, 2022
 - [Using Landlock to Sandbox GNU Make](https://justine.lol/make/) - Aug 7th, 2022
 
-## Redbean ![image redbean](images/redbean.png)
+## Redbean
 
-> _redbean is an open source webserver in a zip executable that runs on six operating systems. The basic idea is if you want to build a web app that runs anywhere, then you download the redbean.com file, put your .html and .lua files inside it using the zip command, and then you've got a hermetic app you can deploy and share._
+> <img align="left" src="images/redbean.png"> _redbean is an open source webserver in a zip executable that runs on six operating systems. The basic idea is if you want to build a web app that runs anywhere, then you download the redbean.com file, put your .html and .lua files inside it using the zip command, and then you've got a hermetic app you can deploy and share._
 
 - [API Docs](https://redbean.dev/)
 - [redbean-template](https://github.com/ProducerMatt/redbean-template) - Starting template to create your own redbean project
@@ -85,9 +85,8 @@ Note: Some ports are experimental. The most battle-tested code is in the [Cosmop
 - [Debugging with ZeroBrane Studio](https://news.ycombinator.com/item?id=32484206) - Aug 10th, 2022
 - [Redbean on Fly](https://til.simonwillison.net/fly/redbean-on-fly) - Recipe for deploying a dockerized redbean to fly
 
-## Fullmoon ![image fullmoon](images/fullmoon.png)
-
-> _Fullmoon is a fast and minimalistic web framework based on Redbean -- a portable, single-file distributable web server._
+## Fullmoon
+> <img align="left" src="images/fullmoon.png"> _Fullmoon is a fast and minimalistic web framework based on Redbean -- a portable, single-file distributable web server._
 
 - [Fullmoon](https://github.com/pkulchenko/fullmoon) - Fast and minimalistic web framework
 - [HN discussions](https://hn.algolia.com/?query=fullmoon+framework) - Algolia list of Fullmoon submissions
