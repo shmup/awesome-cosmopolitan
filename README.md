@@ -34,7 +34,7 @@ This is a list of Cosmopolitan projects and resources. If you notice anything mi
 Note: Some ports are experimental. The most battle-tested code is in the [Cosmopolitan repo](https://github.com/jart/cosmopolitan). Ports are often a stepping stone for what we put in the monorepo.
 
 - [blis](https://github.com/ahgamut/blis/tree/cosmopolitan) - Port of BLIS
-- [cpython39](https://github.com/ahgamut/cpython/tree/cosmo_py39) - Port of python 3.9 (see also [3.6](https://github.com/ahgamut/cpython/tree/cosmo_py39) and [2.7](https://github.com/ahgamut/cpython/tree/cosmo_py27))
+- [cpython39](https://github.com/ahgamut/cpython/tree/cosmo_py39) - Port of python 3.9 (see also [3.6](https://github.com/ahgamut/cpython/tree/cosmo_py36) and [2.7](https://github.com/ahgamut/cpython/tree/cosmo_py27))
 - [esperanto](https://github.com/dinosaure/esperanto) - build-once run-anywhere OCaml programs
 - [janet](https://github.com/ahgamut/janet/tree/cosmopolitan) - Port of Janet
 - [lua](https://github.com/ahgamut/lua/tree/cosmopolitan) - Port of Lua
