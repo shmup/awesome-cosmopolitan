@@ -43,6 +43,7 @@ Note: Some ports are experimental. The most battle-tested code is in the [Cosmop
 - [nim](https://github.com/gnu-enjoyer/ActuallyPortableNim) - Turns Nim into a build once run anywhere language
 - [php73](https://github.com/ahgamut/php-src/tree/cosmo_php73) - Port of  PHP 7.3
 - [rust example](https://github.com/ahgamut/rust-ape-example) - Rust APE Example
+- [scalajs example](https://github.com/lolgab/cosmopolitan-scalajs-example) - Scala.js APE Example
 - [sqlite](https://github.com/ahgamut/sqlite/tree/cosmopolitan) - Port of SQLite
 - [tcl](https://github.com/ahgamut/tcl/tree/cosmopolitan) - Port of TCL
 - [wasm3](https://github.com/wasm3/wasm3/blob/main/docs/Installation.md#cosmopolitan--actually-portable-executable) - APE of wasm3
