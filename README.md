@@ -31,8 +31,9 @@ This is a list of Cosmopolitan projects and resources. If you notice anything mi
 
 ### Programs
 
+- [actually portable awk](https://justine.lol/awk/) - The One True \[Portable\] [Awk](https://github.com/onetrueawk/awk)
 - [blinkenlights](https://justine.lol/blinkenlights/) - Command line debugger that focuses on visualizing how software changes memory
-- [braille dump](https://justine.lol/braille/) - drop in replacement for hexdump -C that uses unicode braille characters to display hex codes
+- [braille dump](https://justine.lol/braille/) - drop in replacement for hexdump -C that uses unicode braille characters to display hex code
 - [printimage.com](https://justine.lol/printimage.html) - png/jpg/gif in terminals
 - [printvideo.com](https://justine.lol/printvideo.html) - mpeg in terminals
 
