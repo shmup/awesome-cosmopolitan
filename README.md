@@ -37,13 +37,23 @@ This is a list of Cosmopolitan projects and resources. If you notice anything mi
 - [printimage.com](https://justine.lol/printimage.html) - png/jpg/gif in terminals
 - [printvideo.com](https://justine.lol/printvideo.html) - mpeg in terminals
 
+### Projects
+- [cosmo-include](https://github.com/fabriziobertocci/cosmo-include) - Set of very empty header files that can be used when building apps with Cosmopolitan
+
 ### Tilting at Windmills
+
+Here are our most ambitious community projects, which would require perishing the greatest demons, but if it could be done, would yield some great rewards.
+
 - [cosmogfx](https://github.com/jacereda/cosmogfx) - Build-once run-anywhere OpenGL application
 
 ### Ports
 
 Note: Some ports are experimental. The most battle-tested code is in the [Cosmopolitan repo](https://github.com/jart/cosmopolitan). Ports are often a stepping stone for what we put in the monorepo.
 
+#### Game
+- [nethack](https://github.com/marcelmaatkamp/cosmopolitan-nethack) - Port of NetHack 3.7.0
+
+#### Programming
 - [blis](https://github.com/ahgamut/blis/tree/cosmopolitan) - Port of BLIS
 - [cosmonim](https://github.com/Yardanico/cosmonim) - Simple example to show how cosmopolitan libc can be used with Nim
 - [cpython39](https://github.com/ahgamut/cpython/tree/cosmo_py39) - Port of python 3.9 (see also [3.6](https://github.com/ahgamut/cpython/tree/cosmo_py36) and [2.7](https://github.com/ahgamut/cpython/tree/cosmo_py27))
