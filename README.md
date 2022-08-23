@@ -34,6 +34,7 @@ This is a list of Cosmopolitan projects and resources. If you notice anything mi
 Note: Some ports are experimental. The most battle-tested code is in the [Cosmopolitan repo](https://github.com/jart/cosmopolitan). Ports are often a stepping stone for what we put in the monorepo.
 
 - [blis](https://github.com/ahgamut/blis/tree/cosmopolitan) - Port of BLIS
+- [cosmonim](https://github.com/Yardanico/cosmonim) - Simple example to show how cosmopolitan libc can be used with Nim
 - [cpython39](https://github.com/ahgamut/cpython/tree/cosmo_py39) - Port of python 3.9 (see also [3.6](https://github.com/ahgamut/cpython/tree/cosmo_py36) and [2.7](https://github.com/ahgamut/cpython/tree/cosmo_py27))
 - [esperanto](https://github.com/dinosaure/esperanto) - build-once run-anywhere OCaml programs
 - [janet](https://github.com/ahgamut/janet/tree/cosmopolitan) - Port of Janet
@@ -42,8 +43,8 @@ Note: Some ports are experimental. The most battle-tested code is in the [Cosmop
 - [make](https://github.com/ahgamut/gnu-make-cosmopolitan) - Port of GNU Make
 - [nim](https://github.com/gnu-enjoyer/ActuallyPortableNim) - Turns Nim into a build once run anywhere language
 - [php73](https://github.com/ahgamut/php-src/tree/cosmo_php73) - Port of  PHP 7.3
-- [rust example](https://github.com/ahgamut/rust-ape-example) - Rust APE Example
-- [scalajs example](https://github.com/lolgab/cosmopolitan-scalajs-example) - Scala.js APE Example
+- [rust ape example](https://github.com/ahgamut/rust-ape-example) - Rust APE Example
+- [scalajs ape example](https://github.com/lolgab/cosmopolitan-scalajs-example) - Scala.js APE Example
 - [sqlite](https://github.com/ahgamut/sqlite/tree/cosmopolitan) - Port of SQLite
 - [tcl](https://github.com/ahgamut/tcl/tree/cosmopolitan) - Port of TCL
 - [wasm3](https://github.com/wasm3/wasm3/blob/main/docs/Installation.md#cosmopolitan--actually-portable-executable) - APE of wasm3
@@ -57,12 +58,14 @@ Note: Some ports are experimental. The most battle-tested code is in the [Cosmop
 
 ### Blog Posts
 
-- [αcτµαlly pδrταblε εxεcµταblε](https://justine.lol/ape.html) - Aug 24th, 2020
 - [Logging C Functions](https://justine.lol/ftrace/) - May 19th, 2022
 - [Size Optimization Tricks](https://justine.lol/sizetricks/) - June 10th, 2022
 - [Ape Loader](https://justine.lol/apeloader/) - June 11th, 2022
+- [Unbelievably clever: Redbean 2 – a single-file web server that runs on six OSes](https://www.theregister.com/2022/06/20/redbean_2_a_singlefile_web/) - June 20th, 2022
 - [Porting OpenBSD pledge() to Linux](https://justine.lol/pledge/) - July 13th, 2022
+- [Color Us Impressed: Redbean Runs A Web Server On Six Operating Systems](https://hackaday.com/2022/07/22/color-us-impressed-redbean-runs-a-web-server-on-six-operating-systems/) - July 22nd, 2022
 - [Using Landlock to Sandbox GNU Make](https://justine.lol/make/) - Aug 7th, 2022
+- [αcτµαlly pδrταblε εxεcµταblε](https://justine.lol/ape.html) - Aug 24th, 2020
 
 ## Redbean
 
