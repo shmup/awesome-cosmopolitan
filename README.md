@@ -61,9 +61,7 @@ Note: Some ports are experimental. The most battle-tested code is in the [Cosmop
 - [Logging C Functions](https://justine.lol/ftrace/) - May 19th, 2022
 - [Size Optimization Tricks](https://justine.lol/sizetricks/) - June 10th, 2022
 - [Ape Loader](https://justine.lol/apeloader/) - June 11th, 2022
-- [Unbelievably clever: Redbean 2 – a single-file web server that runs on six OSes](https://www.theregister.com/2022/06/20/redbean_2_a_singlefile_web/) - June 20th, 2022
 - [Porting OpenBSD pledge() to Linux](https://justine.lol/pledge/) - July 13th, 2022
-- [Color Us Impressed: Redbean Runs A Web Server On Six Operating Systems](https://hackaday.com/2022/07/22/color-us-impressed-redbean-runs-a-web-server-on-six-operating-systems/) - July 22nd, 2022
 - [Using Landlock to Sandbox GNU Make](https://justine.lol/make/) - Aug 7th, 2022
 - [αcτµαlly pδrταblε εxεcµταblε](https://justine.lol/ape.html) - Aug 24th, 2020
 
@@ -86,8 +84,10 @@ Note: Some ports are experimental. The most battle-tested code is in the [Cosmop
 ### Blog Posts
 
 - [redbean 2.0](https://justine.lol/redbean2/) - June 16th, 2022
+- [Unbelievably clever: Redbean 2 – a single-file web server that runs on six OSes](https://www.theregister.com/2022/06/20/redbean_2_a_singlefile_web/) - June 20th, 2022
+- [Color Us Impressed: Redbean Runs A Web Server On Six Operating Systems](https://hackaday.com/2022/07/22/color-us-impressed-redbean-runs-a-web-server-on-six-operating-systems/) - July 22nd, 2022
+- [Redbean on Fly](https://til.simonwillison.net/fly/redbean-on-fly) - July 24th 2022, Recipe for deploying a dockerized redbean to fly
 - [Debugging with ZeroBrane Studio](https://news.ycombinator.com/item?id=32484206) - Aug 10th, 2022
-- [Redbean on Fly](https://til.simonwillison.net/fly/redbean-on-fly) - Recipe for deploying a dockerized redbean to fly
 
 ## Fullmoon
 > <img align="left" src="images/fullmoon.png"> _Fullmoon is a fast and minimalistic web framework based on Redbean -- a portable, single-file distributable web server._
