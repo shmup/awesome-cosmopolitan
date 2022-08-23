@@ -9,8 +9,8 @@ This is a list of Cosmopolitan projects and resources. If you notice anything mi
 ## Table of contents
 
 - [Cosmopolitan](#cosmopolitan-)
-  - [Ports](#ports)
   - [Programs](#programs)
+  - [Ports](#ports)
   - [Blog Posts](#blog-posts)
 - [Redbean](#redbean-)
   - [Projects](#projects)
@@ -28,6 +28,13 @@ This is a list of Cosmopolitan projects and resources. If you notice anything mi
 - [Cosmopolitan](https://github.com/jart/cosmopolitan) - Build-once-run-anywhere for C
 - [API Docs](https://justine.lol/cosmopolitan/documentation.html) - Thorough documentation for Cosmopolitan Libc
 - [HN discussions](https://hn.algolia.com/?query=cosmoplitan+libc) - Algolia list of Cosmopolitan submissions
+
+### Programs
+
+- [blinkenlights](https://justine.lol/blinkenlights/) - Command line debugger that focuses on visualizing how software changes memory
+- [braille dump](https://justine.lol/braille/) - drop in replacement for hexdump -C that uses unicode braille characters to display hex codes
+- [printimage.com](https://justine.lol/printimage.html) - png/jpg/gif in terminals
+- [printvideo.com](https://justine.lol/printvideo.html) - mpeg in terminals
 
 ### Ports
 
@@ -48,13 +55,6 @@ Note: Some ports are experimental. The most battle-tested code is in the [Cosmop
 - [sqlite](https://github.com/ahgamut/sqlite/tree/cosmopolitan) - Port of SQLite
 - [tcl](https://github.com/ahgamut/tcl/tree/cosmopolitan) - Port of TCL
 - [wasm3](https://github.com/wasm3/wasm3/blob/main/docs/Installation.md#cosmopolitan--actually-portable-executable) - APE of wasm3
-
-### Programs
-
-- [blinkenlights](https://justine.lol/blinkenlights/) - Command line debugger that focuses on visualizing how software changes memory
-- [braille dump](https://justine.lol/braille/) - drop in replacement for hexdump -C that uses unicode braille characters to display hex codes
-- [printimage.com](https://justine.lol/printimage.html) - png/jpg/gif in terminals
-- [printvideo.com](https://justine.lol/printvideo.html) - mpeg in terminals
 
 ### Blog Posts
 
