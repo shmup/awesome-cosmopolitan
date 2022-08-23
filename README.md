@@ -37,6 +37,9 @@ This is a list of Cosmopolitan projects and resources. If you notice anything mi
 - [printimage.com](https://justine.lol/printimage.html) - png/jpg/gif in terminals
 - [printvideo.com](https://justine.lol/printvideo.html) - mpeg in terminals
 
+### Tilting at Windmills
+- [cosmogfx](https://github.com/jacereda/cosmogfx) - Build-once run-anywhere OpenGL application
+
 ### Ports
 
 Note: Some ports are experimental. The most battle-tested code is in the [Cosmopolitan repo](https://github.com/jart/cosmopolitan). Ports are often a stepping stone for what we put in the monorepo.
