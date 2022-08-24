@@ -39,6 +39,7 @@ This is a list of Cosmopolitan projects and resources. If you notice anything mi
 
 ### Projects
 - [cosmo-include](https://github.com/fabriziobertocci/cosmo-include) - Set of very empty header files that can be used when building apps with Cosmopolitan
+- [cosmosocks](https://github.com/bannsec/cosmosocks) - Socks server written in Cosmopolitan libc
 
 ### Tilting at Windmills
 
