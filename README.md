@@ -64,6 +64,7 @@ Note: Some ports are experimental. The most battle-tested code is in the [Cosmop
 - [luajit](https://github.com/ahgamut/LuaJIT-cosmo) - Port of Lua JIT
 - [make](https://github.com/ahgamut/gnu-make-cosmopolitan) - Port of GNU Make
 - [nim](https://github.com/gnu-enjoyer/ActuallyPortableNim) - Turns Nim into a build once run anywhere language
+- [perl](https://github.com/G4Vi/perl5/tree/cosmo) - Port of Perl
 - [php73](https://github.com/ahgamut/php-src/tree/cosmo_php73) - Port of  PHP 7.3
 - [rust ape example](https://github.com/ahgamut/rust-ape-example) - Rust APE Example
 - [scalajs ape example](https://github.com/lolgab/cosmopolitan-scalajs-example) - Scala.js APE Example
