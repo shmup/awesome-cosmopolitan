@@ -80,6 +80,7 @@ Note: Some ports are experimental. The most battle-tested code is in the [Cosmop
 - [Porting OpenBSD pledge() to Linux](https://justine.lol/pledge/) - July 13th, 2022
 - [Using Landlock to Sandbox GNU Make](https://justine.lol/make/) - Aug 7th, 2022
 - [αcτµαlly pδrταblε εxεcµταblε](https://justine.lol/ape.html) - Aug 24th, 2020
+- [Getting Started with Cosmopolitan Libc](https://jeskin.net/blog/getting-started-with-cosmopolitan-libc/) - Sep 4th, 2022
 
 ## Redbean
 
