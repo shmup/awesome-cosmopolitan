@@ -94,6 +94,7 @@ Note: Some ports are experimental. The most battle-tested code is in the [Cosmop
 - [rig](https://github.com/cdrubin/rig) - redbean interactive grapher
 - [tiddly-bean](https://github.com/amreus/tiddly-bean) - Experiments with a redbean TiddlyWiki server
 - [redbean-docker](https://github.com/kissgyorgy/redbean-docker) - The smallest possible web server in Docker!
+- [turfwar](https://github.com/shamblesides/turfwar) - IPv4 address turf war!
 - [action-static-redbean](https://github.com/TimonLukas/action-static-redbean) - GitHub action that creates a redbean
 - [redbean-cardgames](https://github.com/shmup/redbean-cardgames) - Upcoming collection of cardgames playable in a browser
 - [redbean-calcpad](https://github.com/shmup/redbean-calcpad) - Alternative take on a calculator
