@@ -54,10 +54,9 @@ Here are our most ambitious community projects, which would require perishing th
 
 Note: Some ports are experimental. The most battle-tested code is in the [Cosmopolitan repo](https://github.com/jart/cosmopolitan). Ports are often a stepping stone for what we put in the monorepo.
 
-#### Programming
 - [blis](https://github.com/ahgamut/blis/tree/cosmopolitan) - Port of BLIS
 - [cosmonim](https://github.com/Yardanico/cosmonim) - Simple example to show how cosmopolitan libc can be used with Nim
-- [cpython39](https://github.com/ahgamut/cpython/tree/cosmo_py39) - Port of python 3.9 (see also [3.6](https://github.com/ahgamut/cpython/tree/cosmo_py36) and [2.7](https://github.com/ahgamut/cpython/tree/cosmo_py27))
+- [cpython39](https://github.com/ahgamut/cpython/tree/cosmo_py311) - Port of python 3.11 (see also [3.9](https://github.com/ahgamut/cpython/tree/cosmo_py39), [3.6](https://github.com/ahgamut/cpython/tree/cosmo_py36), and [2.7](https://github.com/ahgamut/cpython/tree/cosmo_py27))
 - [esperanto](https://github.com/dinosaure/esperanto) - build-once run-anywhere OCaml programs
 - [janet](https://github.com/ahgamut/janet/tree/cosmopolitan) - Port of Janet
 - [lua](https://github.com/ahgamut/lua/tree/cosmopolitan) - Port of Lua
@@ -66,6 +65,7 @@ Note: Some ports are experimental. The most battle-tested code is in the [Cosmop
 - [nim](https://github.com/gnu-enjoyer/ActuallyPortableNim) - Turns Nim into a build once run anywhere language
 - [perl](https://github.com/G4Vi/perl5/tree/cosmo) - Port of Perl
 - [php73](https://github.com/ahgamut/php-src/tree/cosmo_php73) - Port of  PHP 7.3
+- [ripgrep](https://github.com/ahgamut/ripgrep) - Port of ripgrep
 - [rust ape example](https://github.com/ahgamut/rust-ape-example) - Rust APE Example
 - [scalajs ape example](https://github.com/lolgab/cosmopolitan-scalajs-example) - Scala.js APE Example
 - [sqlite](https://github.com/ahgamut/sqlite/tree/cosmopolitan) - Port of SQLite
