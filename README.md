@@ -39,6 +39,7 @@ This is a list of Cosmopolitan projects and resources. If you notice anything mi
 - [nesemu1.com](https://justine.lol/nesemu1.html) - nes emulator in a terminal
 - [printimage.com](https://justine.lol/printimage.html) - png/jpg/gif in terminals
 - [printvideo.com](https://justine.lol/printvideo.html) - mpeg in terminals
+- [bob](https://github.com/dinosaure/bob) - A peer-to-peer file-transfer tool in OCaml with Cosmopolitan
 
 ### Projects
 - [cosmo-include](https://github.com/fabriziobertocci/cosmo-include) - Set of very empty header files that can be used when building apps with Cosmopolitan
