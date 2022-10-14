@@ -34,6 +34,7 @@ This is a list of Cosmopolitan projects and resources. If you notice anything mi
 - [actually portable awk](https://justine.lol/awk/) - The One True \[Portable\] [Awk](https://github.com/onetrueawk/awk)
 - [apelife.com](https://justine.lol/apelife/index.html) - tui for conway's game of life with xterm mouse integration
 - [blinkenlights](https://justine.lol/blinkenlights/) - Command line debugger that focuses on visualizing how software changes memory
+- [bob](https://github.com/dinosaure/bob) - A peer-to-peer file-transfer tool in OCaml with Cosmopolitan
 - [braille dump](https://justine.lol/braille/) - drop in replacement for hexdump -C that uses unicode braille characters to display hex code
 - [memzoom.com](https://justine.lol/memzoom/index.html) - view/monitor the raw memory of processes/files in your UTF-8 terminal
 - [nesemu1.com](https://justine.lol/nesemu1.html) - nes emulator in a terminal
