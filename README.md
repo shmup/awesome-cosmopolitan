@@ -101,6 +101,7 @@ Note: Some ports are experimental. The most battle-tested code is in the [Cosmop
 - [rig](https://github.com/cdrubin/rig) - redbean interactive grapher
 - [tiddly-bean](https://github.com/amreus/tiddly-bean) - Experiments with a redbean TiddlyWiki server
 - [turfwar](https://github.com/shamblesides/turfwar) - IPv4 address turf war!
+- [soakbean](https://github.com/coderofsalvation/soakbean) write serverlogic using beautiful reactive (nodejs) express-like middleware.
 
 ### Blog Posts
 
