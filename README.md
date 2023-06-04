@@ -10,10 +10,11 @@ This is a list of Cosmopolitan projects and resources. If you notice anything mi
 
 - [Cosmopolitan](#cosmopolitan-)
   - [Programs](#programs)
+  - [Projects](#projects)
   - [Ports](#ports)
   - [Blog Posts](#blog-posts)
 - [Redbean](#redbean-)
-  - [Projects](#projects)
+  - [Projects](#projects-1)
   - [Blog Posts](#blog-posts-1)
 - [Fullmoon](#fullmoon-)
 
