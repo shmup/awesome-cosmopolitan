@@ -37,6 +37,7 @@ This is a list of Cosmopolitan projects and resources. If you notice anything mi
 - [blinkenlights](https://justine.lol/blinkenlights/) - Command line debugger that focuses on visualizing how software changes memory
 - [bob](https://github.com/dinosaure/bob) - A peer-to-peer file-transfer tool in OCaml with Cosmopolitan
 - [braille dump](https://justine.lol/braille/) - drop in replacement for hexdump -C that uses unicode braille characters to display hex code
+- [ffl](https://github.com/nuwainfo/ffl) - Turns any file or folder into a secure HTTPS link, allowing two computers to simply and securely transfer files using real peer-to-peer (WebRTC) connections
 - [memzoom.com](https://justine.lol/memzoom/index.html) - view/monitor the raw memory of processes/files in your UTF-8 terminal
 - [nesemu1.com](https://justine.lol/nesemu1.html) - nes emulator in a terminal
 - [printimage.com](https://justine.lol/printimage.html) - png/jpg/gif in terminals
