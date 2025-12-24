@@ -66,6 +66,7 @@ Note: Some ports are experimental. The most battle-tested code is in the [Cosmop
 - [lua](https://github.com/ahgamut/lua/tree/cosmopolitan) - Port of Lua
 - [luajit](https://github.com/ahgamut/LuaJIT-cosmo) - Port of Lua JIT
 - [make](https://github.com/ahgamut/gnu-make-cosmopolitan) - Port of GNU Make
+- [mruby](https://github.com/mruby/mruby) - mruby [supports cosmo](https://github.com/mruby/mruby/pull/6681) as a build target
 - [nim](https://github.com/gnu-enjoyer/ActuallyPortableNim) - Turns Nim into a build once run anywhere language
 - [perl](https://computoid.com/APPerl/) - Port of Perl
 - [php73](https://github.com/ahgamut/php-src/tree/cosmo_php73) - Port of PHP 7.3
