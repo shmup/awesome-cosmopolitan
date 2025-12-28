@@ -45,6 +45,7 @@ This is a list of Cosmopolitan projects and resources. If you notice anything mi
 
 ### Projects
 - [cosmo-include](https://github.com/fabriziobertocci/cosmo-include) - Set of very empty header files that can be used when building apps with Cosmopolitan
+- [cosmofy](https://github.com/metaist/cosmofy) - Bundle Python projects into a single-file Cosmopolitan Python executable
 - [cosmosocks](https://github.com/bannsec/cosmosocks) - Socks server written in Cosmopolitan libc
 - [microwindows](https://github.com/ghaerr/microwindows) - The Nano-X Window System ([demo](https://github.com/jart/cosmopolitan/issues/35#issuecomment-1098659862))
 
